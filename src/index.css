@@ -1,0 +1,21 @@
+@import './fonts.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    * {
+        box-sizing: border-box;
+        transition: 0.5s ease;
+        font-family: "gordita-light", "Helvetica Neue", "Helvetica", sans-serif;
+      }
+  }
+
+  * {
+    box-sizing: border-box;
+    transition: 0.5s ease;
+    font-family: "Inconsolata", monospace;
+    font-family: "Georgia Regular, sans-serif";
+    font-family: "Gordita Regular", "Helvetica Neue", "Helvetica", sans-serif;
+    font-family: "Gordita Light", "Helvetica Neue", "Helvetica", sans-serif;
+  }

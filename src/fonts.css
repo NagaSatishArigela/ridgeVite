@@ -1,0 +1,163 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800&display=swap");
+
+@font-face {
+  font-family: "Gordita Regular";
+  font-style: normal;
+  font-weight: 400; /* Regular weight */
+  src: url("../../assets/fonts/Gordita Regular.woff2") format("woff2"),
+       url("../../assets/fonts/Gordita Regular.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gordita Regular Italic";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../../assets/fonts/Gordita Regular Italic.woff2") format("woff2"),
+       url("../../assets/fonts/Gordita Regular Italic.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gordita Thin";
+  font-style: normal;
+  font-weight: 200; /* Thin weight */
+  src: url("../../assets/fonts/Gordita Thin.woff2") format("woff2"),
+       url("../../assets/fonts/Gordita Thin.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gordita Thin Italic";
+  font-style: italic;
+  font-weight: 200;
+  src: url("../../assets/fonts/Gordita Thin Italic.woff2") format("woff2"),
+       url("../../assets/fonts/Gordita Thin Italic.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gordita Light";
+  font-style: normal;
+  font-weight: 300; /* Light weight */
+  src: url("../../assets/fonts/Gordita Light.woff2") format("woff2"),
+       url("../../assets/fonts/Gordita Light.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gordita Light Italic";
+  font-style: italic;
+  font-weight: 300;
+  src: url("../../assets/fonts/Gordita Light Italic.woff2") format("woff2"),
+       url("../../assets/fonts/Gordita Light Italic.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gordita Medium";
+  font-style: normal;
+  font-weight: 500; /* Medium weight */
+  src: url("../../assets/fonts/Gordita Medium.woff2") format("woff2"),
+       url("../../assets/fonts/Gordita Medium.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gordita Medium Italic";
+  font-style: italic;
+  font-weight: 500;
+  src: url("../../assets/fonts/Gordita Medium Italic.woff2") format("woff2"),
+       url("../../assets/fonts/Gordita Medium Italic.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gordita Bold";
+  font-style: normal;
+  font-weight: 700; /* Bold weight */
+  src: url("../../assets/fonts/Gordita Bold.woff2") format("woff2"),
+       url("../../assets/fonts/Gordita Bold.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gordita Bold Italic";
+  font-style: italic;
+  font-weight: 700;
+  src: url("../../assets/fonts/Gordita Bold Italic.woff2") format("woff2"),
+       url("../../assets/fonts/Gordita Bold Italic.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gordita Black";
+  font-style: normal;
+  font-weight: 900; /* Black weight */
+  src: url("../../assets/fonts/Gordita Black.woff2") format("woff2"),
+       url("../../assets/fonts/Gordita Black.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gordita Black Italic";
+  font-style: italic;
+  font-weight: 900;
+  src: url("../../assets/fonts/Gordita Black Italic.woff2") format("woff2"),
+       url("../../assets/fonts/Gordita Black Italic.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gordita Ultra";
+  font-style: normal;
+  font-weight: 800; /* Ultra weight */
+  src: url("../../assets/fonts/Gordita Ultra.woff2") format("woff2"),
+       url("../../assets/fonts/Gordita Ultra.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gordita Ultra Italic";
+  font-style: italic;
+  font-weight: 800;
+  src: url("../../assets/fonts/Gordita Ultra Italic.woff2") format("woff2"),
+       url("../../assets/fonts/Gordita Ultra Italic.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Georgia Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../../assets/fonts/georgia.woff2") format("woff2"),
+       url("../../assets/fonts/georgia.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Georgia Italic";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../../assets/fonts/georgiai.woff2") format("woff2"),
+       url("../../assets/fonts/georgiai.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Georgia Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../../assets/fonts/georgiab.woff2") format("woff2"),
+       url("../../assets/fonts/georgiab.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Georgia Bold Italic";
+  font-style: italic;
+  font-weight: 700;
+  src: url("../../assets/fonts/georgiaz.woff2") format("woff2"),
+       url("../../assets/fonts/georgiaz.woff") format("woff");
+  font-display: swap;
+}
